@@ -6,7 +6,7 @@ source data from the paper Y. kolobkova et a
   
 ### [Fig. 1 dataset 2](../master/Figur 1a.xlsx)
 
-### [Fig. 2 dataset 2](../master/Figure_2_data.xlsx)
+### [Fig. 1 dataset 2](../main/Figure 1c.xlsx)
 Data: Transfection rates/protein expression/glykolysation in fig.2   
 <b>as <i>Figure2_data.xlsx</i></b>
  
