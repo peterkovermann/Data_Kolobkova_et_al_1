@@ -9,7 +9,7 @@ source data from the paper Y. kolobkova et a
 Data: Sex-specific seizure suspectibility of heterozygous P290R mice (1B) and survival analysis (1C)
 <b>as <i>Figure_1b-c.xlsx</i></b>
 
-### [Fig. 1 dataset 3](../master/Figur_1b-c.xlsx)
+### [Fig. 1 dataset 3](../master/Figur_1d.xlsx)
 Data: Sex-specific development of body weights from WT and heterozygous P290R mice
 <b>as <i>Figure_1d.xlsx</i></b>
 
