@@ -24,6 +24,10 @@ Data: Internal chloride concentrations from fluorescence lifetime imaging of RGL
 Data: RGL densities in the dentate gyrus from WTR and hweterozygous P290R mice at P20 and P40
 <b>as <i>Figur_4.xlsx</i></b>
 
+### [Fig. 5 dataset 1](../master/Figur_5.xlsx)
+Data: AMPAR-mediated EPSCs in the dentate gyrus and CA1 from WT and heterozygous P290R mice at P20 and P40
+<b>as <i>Figur_5.xlsx</i></b>
+
 ------------------------------------------------------------------------------------------------------------------------
 
 #
