@@ -28,6 +28,10 @@ Data: RGL densities in the dentate gyrus from WTR and hweterozygous P290R mice a
 Data: AMPAR-mediated EPSCs in the dentate gyrus and CA1 from WT and heterozygous P290R mice at P20 and P40
 <b>as <i>Figur_5.xlsx</i></b>
 
+### [Fig. 6 dataset 1](../master/Figur_6a-d.xlsx)
+Data: Quantitative receptor autoradiography of AMPAR in brains from WT and heterozygous P290R mice at P50
+<b>as <i>Figur_6a-d.xlsx</i></b>
+
 ------------------------------------------------------------------------------------------------------------------------
 
 #
