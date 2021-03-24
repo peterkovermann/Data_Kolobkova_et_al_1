@@ -17,8 +17,12 @@ Data: Tonic and phasic GABAR mediated currents in the dentate gyrus
 <b>as <i>Figur_2.xlsx</i></b>
 
 ### [Fig. 3 dataset 1](../master/Figur_3a-f.xlsx)
-Data: Internal chloride concnetrations from fluorescence lifetime imaging of RGLs (3A, 3B, 3E) and astrocytes (3C, 3D, 3F)
+Data: Internal chloride concentrations from fluorescence lifetime imaging of RGLs (3A, 3B, 3E) and astrocytes (3C, 3D, 3F)
 <b>as <i>Figur_3a-f.xlsx</i></b>
+
+### [Fig. 4 dataset 1](../master/Figur_4a.xlsx)
+Data: RGL densities in the dentate gyrus from WTR and hweterozygous P290R mice at P20 and P40
+<b>as <i>Figur_4.xlsx</i></b>
 
 ------------------------------------------------------------------------------------------------------------------------
 
