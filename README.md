@@ -16,6 +16,10 @@ Data: Sex-specific development of body weights from WT and heterozygous P290R mi
 Data: Tonic and phasic GABAR mediated currents in the dentate gyrus
 <b>as <i>Figur_2.xlsx</i></b>
 
+### [Fig. 3 dataset 1](../master/Figur_3a-f.xlsx)
+Data: Internal chloride concnetrations from fluorescence lifetime imaging of RGLs (3A, 3B, 3E) and astrocytes (3C, 3D, 3F)
+<b>as <i>Figur_3a-f.xlsx</i></b>
+
 ------------------------------------------------------------------------------------------------------------------------
 
 #
