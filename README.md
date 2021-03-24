@@ -7,6 +7,7 @@ source data from the paper Y. kolobkova et a
 
 ### [Fig. 1 dataset 2](../master/Figur_1b-c.xlsx)
 Data: Sex-specific seizure suspectibility of heterozygous P290R mice (1B) and survival analysis (1C)
+<b>as <i>Figure_1b-c.xlsx</i></b>
 
 ### [Fig. 1 dataset 2](../master/Figure 1c.xlsx)
 Data: Transfection rates/protein expression/glykolysation in fig.2   
