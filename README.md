@@ -1,6 +1,6 @@
 # Source data from Kolobkova <i>et al</i> 2021: Altered glial chloride homeostasis and impaired granule cell inhibition cause epilepsy in an animal model of episodic ataxia 6
-  
-### Kolobkova, Y., Engels, M., Behuet, S., Bludau, S., Gensch, T., Fahlke, C., Kovermann, P.
+## Kolobkova, Y., Engels, M., Behuet, S., Bludau, S., Gensch, T., Fahlke, C., Kovermann, P.
+### Institute of Biological Information Processing, Molekular- and Zellphysiologie (IBI-1) and Institute of Neuroscience and Medicine, Strukturelle und funktionelle Organisation des Gehirns (IMN-1), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany
 
 -------------------------------------------------------------------------------------------------------------------------
 ### [Fig. 1 data set 1] (../master/Figur_1a.xlsx)
