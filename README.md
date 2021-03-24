@@ -32,6 +32,10 @@ Data: AMPAR-mediated EPSCs in the dentate gyrus and CA1 from WT and heterozygous
 Data: Quantitative receptor autoradiography of AMPAR in brains from WT and heterozygous P290R mice at P50
 <b>as <i>Figur_6a-d.xlsx</i></b>
 
+### [Fig. 6 dataset 2](../master/Figur_6e-g.xlsx)
+Data: Analysis of spine morphology with Golgi-Cox staining
+<b>as <i>Figur_6a-d.xlsx</i></b>
+
 ------------------------------------------------------------------------------------------------------------------------
 
 #
