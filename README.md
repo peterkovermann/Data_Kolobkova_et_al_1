@@ -12,9 +12,9 @@ Data: Sex-specific seizure suspectibility of heterozygous P290R mice (1B) and su
 Data: Sex-specific development of body weights from WT and heterozygous P290R mice
 <b>as <i>Figure_1d.xlsx</i></b>
 
-### [Fig. 3, 4, 5 datasets](../master/Fig_3_4_5_expression_vs_current_data.xlsx)
-Data: Values for Graphs in figs.3d, 4d, and 5d  
-<b>as <i>Fig_3_4_5_expression_vs_current_data.xlsx</i></b>
+### [Fig. 2 dataset 1](../master/Fig_2.xlsx)
+Data: Tonic and phasic GABAR mediated currents in the dentate gyrus
+<b>as <i>Fig_2.xlsx</i></b>
 
 ------------------------------------------------------------------------------------------------------------------------
 
