@@ -9,28 +9,9 @@ source data from the paper Y. kolobkova et a
 Data: Sex-specific seizure suspectibility of heterozygous P290R mice (1B) and survival analysis (1C)
 <b>as <i>Figure_1b-c.xlsx</i></b>
 
-### [Fig. 1 dataset 2](../master/Figure 1c.xlsx)
-Data: Transfection rates/protein expression/glykolysation in fig.2   
-<b>as <i>Figure2_data.xlsx</i></b>
- 
-### [Fig. 3](../master/Figure_3_data.xlsx)
-Data: Values for glutamate uptake currents (substracted currents: +Glu - noGlu) (incl. cell capacitances) in fig.3   
-<b>as <i>Figure_3_data.xlsx</i></b>  
-
-
-### [Fig. 4](../master/Figure_4_data-xlsx)
-Data: Values for EAAT1 anion currents (with internal KNO<sub>3</sub>, fig.4) and values for current ratios +/- Glu (supplemental fig.4) (incl. cell capacitances)  
-<b>as <i>Figure_4_data.xlsx</i></b>  
-
-
-### [Fig. 5](../master/Figure_5_data.xlsx)
-Data: Values for EAAT1 anion currents (with internal NaNO<sub>3</sub>, fig.5) and values for current ratios +/- Glu (supplemental fig.4)  
-<b>as <i>Figure_5_data.xlsx</i></b>
-
-### [Fig. 6](../master/Figure_6_data.xlsx)
-Data: Values for <i>h</i>EAAT1 anion currents from cotransfections with M128R <i>h</i>EAAT1, T318A <i>h</i>EAAT1, and E281Q <i>h</i>ClC4 (int: KNO<sub>3</sub>) in fig.6  
-<b>as <i>Figure_6_data.xlsx</i></b>
-
+### [Fig. 1 dataset 3](../master/Figur_1b-c.xlsx)
+Data: Sex-specific development of body weights from WT and heterozygous P290R mice
+<b>as <i>Figure_1d.xlsx</i></b>
 
 ### [Fig. 3, 4, 5 datasets](../master/Fig_3_4_5_expression_vs_current_data.xlsx)
 Data: Values for Graphs in figs.3d, 4d, and 5d  
