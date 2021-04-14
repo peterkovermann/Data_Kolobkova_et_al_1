@@ -4,10 +4,10 @@ source data from the paper Y. kolobkova et a
 ### Kolobkova, Y., Engels, M., Behuet, S., Bludau, S., Gensch, T., Fahlke, C., Kovermann, P.
 -------------------------------------------------------------------------------------------------------------------------
   
-### [Fig. 1 dataset 2](../master/Figur_1b-c.xlsx)
+### [Fig. 1 dataset 1](../master/Figur_1b-c.xlsx)
 
-### [Fig. 1 dataset 2](../main/Figure 1c.xlsx)
-Data: Transfection rates/protein expression/glykolysation in fig.2   
+### [Fig. 1 dataset 2](../main/Figur_1d.xlsx)
+Data:  in fig.2   
 <b>as <i>Figure2_data.xlsx</i></b>
  
 ### [Fig. 3](../master/Figure_3_data.xlsx)
