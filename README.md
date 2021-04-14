@@ -5,17 +5,19 @@ source data from the paper Y. kolobkova et a
 -------------------------------------------------------------------------------------------------------------------------
   
 ### [Fig. 1 dataset 1](../master/Figur_1b-c.xlsx)
+Data: Suspectibility of animals to seizures or SUDEP
+<b>as <i>Figur_1b-c.xlsx</i></b>  
 
 ### [Fig. 1 dataset 2](../main/Figur_1d.xlsx)
-Data:  in fig.2   
-<b>as <i>Figure2_data.xlsx</i></b>
+Data:  Animal weights during early development  
+<b>as <i>Figur_1_d.xlsx</i></b>  
  
-### [Fig. 3](../master/Figure_3_data.xlsx)
-Data: Values for glutamate uptake currents (substracted currents: +Glu - noGlu) (incl. cell capacitances) in fig.3   
-<b>as <i>Figure_3_data.xlsx</i></b>  
+### [Fig. 2](../master/Figure_2.xlsx)
+Data: IPSCs and tonic currents in the dentate gyrus   
+<b>as <i>Figur_2.xlsx</i></b>  
 
 
-### [Fig. 4](../master/Figure_4_data-xlsx)
+### [Fig. 3](../master/Figure_4_data-xlsx)
 Data: Values for EAAT1 anion currents (with internal KNO<sub>3</sub>, fig.4) and values for current ratios +/- Glu (supplemental fig.4) (incl. cell capacitances)  
 <b>as <i>Figure_4_data.xlsx</i></b>  
 
