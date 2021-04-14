@@ -12,29 +12,36 @@ Data: Suspectibility of animals to seizures or SUDEP
 Data:  Animal weights during early development  
 <b>as <i>Figur_1_d.xlsx</i></b>  
  
-### [Fig. 2](../master/Figure_2.xlsx)
+### [Fig. 2](../master/Figur_2.xlsx)
 Data: IPSCs and tonic currents in the dentate gyrus   
 <b>as <i>Figur_2.xlsx</i></b>  
 
 
-### [Fig. 3](../master/Figure_4_data-xlsx)
-Data: Values for EAAT1 anion currents (with internal KNO<sub>3</sub>, fig.4) and values for current ratios +/- Glu (supplemental fig.4) (incl. cell capacitances)  
-<b>as <i>Figure_4_data.xlsx</i></b>  
+### [Fig. 3 dataset 1](../master/Figur_3a-f.xlsx)
+Data: intracellular chloride concentrations of RGLs in the dentate gyrus and astrocytes in CA1 
+<b>as <i>Figur_3a-f.xlsx</i></b>  
 
 
-### [Fig. 5](../master/Figure_5_data.xlsx)
-Data: Values for EAAT1 anion currents (with internal NaNO<sub>3</sub>, fig.5) and values for current ratios +/- Glu (supplemental fig.4)  
-<b>as <i>Figure_5_data.xlsx</i></b>
+### [Fig. 4](../master/Figur4a.xlsx)
+Data: RGL density in the dentate gyrus
+<b>as <i>Figur_4a.xlsx</i></b>
 
-### [Fig. 6](../master/Figure_6_data.xlsx)
-Data: Values for <i>h</i>EAAT1 anion currents from cotransfections with M128R <i>h</i>EAAT1, T318A <i>h</i>EAAT1, and E281Q <i>h</i>ClC4 (int: KNO<sub>3</sub>) in fig.6  
-<b>as <i>Figure_6_data.xlsx</i></b>
+### [Fig. 5](../master/Figur_5.xlsx)
+Data: mEPSCs in the dentate gyrus and CA1 before and after seizure onset
+<b>as <i>Figur_5.xlsx</i></b>
 
+### [Fig. 6 dataset 1](../master/Figur_6a-d.xlsx)
+Data: Autoradiography: AMPA receptor density in selected brain regions
+<b>as <i>Figur_6a-d.xlsx</i></b>
 
-### [Fig. 3, 4, 5 datasets](../master/Fig_3_4_5_expression_vs_current_data.xlsx)
-Data: Values for Graphs in figs.3d, 4d, and 5d  
-<b>as <i>Fig_3_4_5_expression_vs_current_data.xlsx</i></b>
+### [Fig. 6 dataset 2](../master/Figur_6e-g.xlsx)
+Data: Synapse morphology (Golgi-Cox staining)
+<b>as <i>Figur_6e-g.xlsx</i></b>
+
+### [Fig. 3, 4, 5 datasets](../master/Western_Blots_Figuren_2_3_4.xlsx)
+Data: Analyses of westrern blots in fig. 3, 4, and 5
+<b>as <i>Western_blots_Figuren_2_3_4.xlsx</i></b>
 
 ------------------------------------------------------------------------------------------------------------------------
 
-#
+
