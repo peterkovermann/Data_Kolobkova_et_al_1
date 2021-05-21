@@ -37,7 +37,7 @@ Data: Autoradiography: AMPA receptor density in selected brain regions
 Data: Synapse morphology (Golgi-Cox staining)
 <b>as <i>Figur_6e-g.xlsx</i></b>
 
-### [Fig. 3, 4, 5 datasets](../master/Western_Blots_Figuren_2_3_4.xlsx)
+### [Fig. 3, 4, 5 datasets](../master/Western_blots_Figuren_2_3_4.xlsx)
 Data: Analyses of westrern blots in fig. 3, 4, and 5
 <b>as <i>Western_blots_Figuren_2_3_4.xlsx</i></b>
 
