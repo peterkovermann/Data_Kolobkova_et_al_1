@@ -17,13 +17,9 @@ Data: IPSCs and tonic currents in the dentate gyrus
 <b>as <i>Figur_2.xlsx</i></b>  
 
 
-### [Fig. 3 dataset 1](../master/Figur_3a-f.xlsx)
+### [Fig. 3](../master/Figur_3a-f.xlsx)
 Data: intracellular chloride concentrations of RGLs in the dentate gyrus and astrocytes in CA1 
 <b>as <i>Figur_3a-f.xlsx</i></b>  
-
-### [Fig. 3 dataset 2](../master/Figur_3g-i.xlsx)
-Data: GLAST and GAT-3 expression data
-<b>as <i>Figur_3g-i.xlsx</i></b>  
 
 ### [Fig. 4](../master/Figur4a.xlsx)
 Data: RGL density in the dentate gyrus
