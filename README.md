@@ -1,7 +1,9 @@
-# Source data from Kolobkova <i>et al</i> 2021: Altered glial chloride homeostasis and impaired granule cell inhibition cause epilepsy in an animal model of episodic ataxia 6
-source data from the paper Y. Kolobkova et a
+# Source data from Kolobkova <i>et al</i> 2022: EAAT anion channels link glutamatergic and GABAergic synaptic transmission in the dentate gyrus 
   
-### Kolobkova, Y., Engels, M., Behuet, S., Bludau, S., Gensch, T., Fahlke, C., Kovermann, P.
+# Kolobkova, Y.<sup>1,#</sup>, Engels, M.<sup>1</sup>, Behuet, S.<sup>2</sup>, Bludau, S.<sup>2</sup>, Gensch, T.<sup>1</sup>, Fahlke, C.<sup>1</sup>, and Kovermann, P<sup>1</sup>.
+
+<sup>1</sup>Institute of Biological Information Processing, Molekular- und Zellphysiologie (IBI-1), Forschungszentrum Jülich, 52428 Jülich, Germany; 
+<sup>2</sup>Institute of Neuroscience and Medicine, Strukturelle und funktionelle Organisation des Gehirns (IMN-1), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany; <sup>#</sup>present address: MSH Medical School Hamburg, 20457 Hamburg, Germany
 -------------------------------------------------------------------------------------------------------------------------
   
 ### [Fig. 1 dataset 1](../master/Figur_1b-c.xlsx)
