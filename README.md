@@ -29,13 +29,13 @@ Data: RGL density in the dentate gyrus
 Data: mEPSCs in the dentate gyrus and CA1 before and after seizure onset
 <b>as <i>Figur_5.xlsx</i></b>
 
-### [Fig. S1 dataset 1](../master/FigurS1a-d.xlsx)
+### [Fig. S1 dataset 1](../master/Figur_S1a-d.xlsx)
 Data: Autoradiography: AMPA receptor density in selected brain regions
-<b>as <i>Figur_6a-d.xlsx</i></b>
+<b>as <i>Figur_S1a-d.xlsx</i></b>
 
-### [Fig. S1 dataset 2](../master/FigurS1e-g.xlsx)
+### [Fig. S1 dataset 2](../master/Figur_S1e-g.xlsx)
 Data: Synapse morphology (Golgi-Cox staining)
-<b>as <i>Figur_6e-g.xlsx</i></b>
+<b>as <i>Figur_S1e-g.xlsx</i></b>
 
 ### [Fig. 3, 4, 5 datasets](../master/Western_blots_Figuren_2_3_4.xlsx)
 Data: Analyses of western blots in fig. 3, 4, and 5
