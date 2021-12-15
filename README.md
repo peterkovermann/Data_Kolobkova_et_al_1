@@ -6,7 +6,7 @@
 <sup>2</sup>Institute of Neuroscience and Medicine, Strukturelle und funktionelle Organisation des Gehirns (IMN-1), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany; <sup>#</sup>present address: MSH Medical School Hamburg, 20457 Hamburg, Germany
 -------------------------------------------------------------------------------------------------------------------------
   
-### [Fig. 1 dataset 1](../master/Figur_1a-b.xlsx)
+### [Fig. 1 dataset 1](../main/Figur_1a-b.xlsx)
 Data: Suspectibility of animals to seizures or SUDEP
 <b>as <i>Figur_1a-b.xlsx</i></b>  
 
