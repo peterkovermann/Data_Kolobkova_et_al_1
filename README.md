@@ -10,9 +10,9 @@
 Data: Suspectibility of animals to seizures or SUDEP
 <b>as <i>Figur_1a-b.xlsx</i></b>  
 
-### [Fig. 1 dataset 2](../main/Figur_1d.xlsx)
+### [Fig. 1 dataset 2](../main/Figur_1c.xlsx)
 Data:  Animal weights during early development  
-<b>as <i>Figur_1_d.xlsx</i></b>  
+<b>as <i>Figur_1c.xlsx</i></b>  
  
 ### [Fig. 2](../master/Figur_2.xlsx)
 Data: IPSCs and tonic currents in the dentate gyrus   
